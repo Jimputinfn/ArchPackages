@@ -1,6 +1,6 @@
 
 
-sudo pacman -S flatpak neovim htop neofetch openrgb kitty discord steam brave-bin firefox
+sudo pacman -S flatpak neovim htop neofetch openrgb kitty discord steam firefox
 
 
 
