@@ -1,0 +1,11 @@
+
+su
+pacman -S flatpak
+pacman -S steam
+pacman -S discord
+pacman -S kitty 
+pacman -S openrgb 
+pacman -S neofetch 
+pacman -S htop 
+pacman -S neovim
+
