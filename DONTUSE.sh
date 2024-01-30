@@ -2,7 +2,7 @@
 
 
 
-sudo pacman -S flatpak neovim htop neofetch openrgb kitty discord steam firefox git
+sudo pacman -S flatpak neovim htop neofetch openrgb kitty discord steam firefox git plasma-desktop
 
 
 
