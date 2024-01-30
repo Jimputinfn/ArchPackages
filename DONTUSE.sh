@@ -2,23 +2,12 @@
 
 echo -ne "
 -------------------------------------------------------------------------
-                   _       _____           _                         
-    /\            | |     |  __ \         | |                        
-   /  \   _ __ ___| |__   | |__) |_ _  ___| | ____ _  __ _  ___  ___ 
-  / /\ \ | '__/ __| '_ \  |  ___/ _` |/ __| |/ / _` |/ _` |/ _ \/ __|
- / ____ \| | | (__| | | | | |  | (_| | (__|   < (_| | (_| |  __/\__ \
-/_/    \_\_|  \___|_| |_| |_|   \__,_|\___|_|\_\__,_|\__, |\___||___/
-                                                      __/ |          
-                                                     |___/           
--------------------------------------------------------------------------
-                    Automated Arch Linux Package installer
+                    Automated Arch Linux Package installer V2
 -------------------------------------------------------------------------
                Made By Jimputin
 "
 
 
 sudo pacman -S flatpak neovim htop neofetch openrgb kitty discord steam firefox git plasma-desktop linux-lts
-
-
-
+grub-mkconfig -o /boot/grub/grub.cfg
 
