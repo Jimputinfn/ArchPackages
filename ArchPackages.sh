@@ -2,7 +2,7 @@
 
 echo -ne "
 -------------------------------------------------------------------------
-                    Automated Arch Linux Package Installer V3
+|                    Automated Arch Linux Package Installer V3           |
 -------------------------------------------------------------------------
                Made By Jimputin
 This isnt arch install script this installs applications and desktop that i use.
