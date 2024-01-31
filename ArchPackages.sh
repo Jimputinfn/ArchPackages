@@ -1,4 +1,4 @@
-#Made By Jimputin | https://github.com/Jimputinfn/ArchPackages | 
+#Made By Jimputin | https://github.com/Jimputinfn/ArchPackages | Free and Open Source 
 
 echo -ne "
 -------------------------------------------------------------------------
