@@ -6,7 +6,6 @@ echo -ne "
 -------------------------------------------------------------------------
                Made By Jimputin
 This isnt arch install script this installs applications and desktop that i use.
-Please Enter your password to start install process
 "
 
 
