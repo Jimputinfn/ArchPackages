@@ -9,6 +9,6 @@ This isnt arch install script this installs applications and desktop that i use.
 "
 
 
-yay -S flatpak neovim htop neofetch openrgb alacritty discord steam firefox git plasma-desktop linux-lts thorium-browser-bin grub-customizer i3-wm
+yay -S flatpak neovim htop neofetch openrgb alacritty discord steam firefox git plasma-desktop linux-lts thorium-browser-bin grub-customizer i3-wm vscodium-bin
 
 echo Done!
